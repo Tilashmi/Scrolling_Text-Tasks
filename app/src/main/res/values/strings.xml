@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">The Universe And Us</string>
+    <string name="article_subtitle">The universe exists within us</string>
+    <string name="article_text">Technology has always been a product of ingenuity and curiosity.
+        Although a great tool for exploring the unknown, it still has a long way to go.
+        The human body exists within a universe whose fundamental laws are
+        still largely a mystery, a subject ripe for research.
+        With its laws, its order, its chaos, its mysteries, the body is a mirror of the universe.<br/><br/>
+        <p>For more information visit www.esaote.com</p><br/>
+        <p>
+        Throughout history, doctors have always used the technologies at their disposal to read this universe –
+        without ever forgetting the most important tool of all, one beyond the reach of any artificial
+        intelligence even today: intuition.Esaote’s purpose has always been to create instruments that
+        help doctors read our physical universe more clearly – and,like any good doctor, it has sought to
+        better itself over the thirty years or so of its existence.
+        </p><br/>
+        <p>
+        <b>Research and development, without limits</b>
+        The importance Esaote places on discovery is evident from its various collaborations with scientific-medical
+        and technological research centres, as well as space centres. Esaote is always present where it is needed,
+        accompanying mankind into new, uncharted environments, following the rhythm of human curiosity. As mankind
+        forges ahead, Esaote stands at the forefront, keeping up with the ever-increasing pace of human progress.
+        </p>
+        </string>
+</resources>
